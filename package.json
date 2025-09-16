@@ -1,0 +1,21 @@
+{
+  "name": "vs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "cheerio": "^1.1.2",
+    "crawlee": "^3.14.1",
+    "got-scraping": "^4.1.2",
+    "json2csv": "^6.0.0-alpha.2",
+    "open": "^10.2.0",
+    "playwright": "^1.55.0"
+  }
+}
