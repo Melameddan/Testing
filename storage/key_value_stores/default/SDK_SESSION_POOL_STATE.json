@@ -1,0 +1,433 @@
+{
+  "usableSessionsCount": 2,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_ko8JDNd9pc",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-16T21:56:30.941Z",
+      "createdAt": "2025-09-16T21:06:30.941Z",
+      "usageCount": 0,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    },
+    {
+      "id": "session_CtlGFGA8V7",
+      "cookieJar": {
+        "version": "tough-cookie@5.1.2",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "enableLooseMode": false,
+        "allowSpecialUseDomain": true,
+        "prefixSecurity": "silent",
+        "cookies": [
+          {
+            "key": "__uzma",
+            "value": "8961ef3b-7f57-480f-9c80-6716065b07c1",
+            "expires": "2026-03-17T21:06:32.217Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.679Z",
+            "lastAccessed": "2025-09-16T21:06:41.679Z"
+          },
+          {
+            "key": "__uzmb",
+            "value": "1758056791",
+            "expires": "2026-03-17T21:06:32.219Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.680Z",
+            "lastAccessed": "2025-09-16T21:06:41.680Z"
+          },
+          {
+            "key": "__uzme",
+            "value": "1051",
+            "expires": "2026-03-17T21:06:32.219Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.680Z",
+            "lastAccessed": "2025-09-16T21:06:41.680Z"
+          },
+          {
+            "key": "__uzmc",
+            "value": "658341036867",
+            "expires": "2026-03-17T21:06:32.219Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.680Z",
+            "lastAccessed": "2025-09-16T21:06:41.680Z"
+          },
+          {
+            "key": "__uzmd",
+            "value": "1758056791",
+            "expires": "2026-03-17T21:06:32.219Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.680Z",
+            "lastAccessed": "2025-09-16T21:06:41.680Z"
+          },
+          {
+            "key": "__uzmf",
+            "value": "7f90008961ef3b-7f57-480f-9c80-6716065b07c11-17580567919930-000f2344a576523a0ed10",
+            "expires": "2026-03-17T21:06:32.219Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.681Z",
+            "lastAccessed": "2025-09-16T21:06:41.681Z"
+          },
+          {
+            "key": "recommendations-home-category",
+            "value": "{\"categoryId\":2,\"subCategoryId\":2}",
+            "expires": "2025-09-16T21:36:34.960Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.681Z",
+            "lastAccessed": "2025-09-16T21:06:41.681Z"
+          },
+          {
+            "key": "y2018-2-cohort",
+            "value": "64",
+            "expires": "2026-03-16T22:06:32.803Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.688Z",
+            "lastAccessed": "2025-09-16T21:06:41.688Z"
+          },
+          {
+            "key": "cohortGroup",
+            "value": "D",
+            "expires": "2026-03-16T22:06:33.804Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__ssds",
+            "value": "0",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "guest_token",
+            "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwYXlsb2FkIjp7InV1aWQiOiJlZjljMzRhNC1lMjgwLTQ2YzctYmUyZi00NGE4OWJjN2ExMzkifSwiaWF0IjoxNzU4MDU2Nzk0LCJleHAiOjE3ODk2MTQzOTR9.vULu549Cw_1QyufDjTs82aj-ivWU4KGf9OKZg66s0Yk",
+            "expires": "2026-09-16T21:06:34.318Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "uzmx",
+            "value": "7f90000c12f885-fd77-4a7b-8b85-5370ac70c7861-17580567919932488-104fed9f8a3b5cbf16",
+            "expires": "2026-03-17T21:06:34.592Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "httpOnly": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__ssuzjsr0",
+            "value": "a9be0cd8e",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmaj0",
+            "value": "8961ef3b-7f57-480f-9c80-6716065b07c1",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmbj0",
+            "value": "1758056794",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmcj0",
+            "value": "611611037661",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmdj0",
+            "value": "1758056794",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmlj0",
+            "value": "xIi9/oyWlCctDBM415tYlp7TIuvvK8E0FqVS0TjBozE=",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "__uzmfj0",
+            "value": "7f90008961ef3b-7f57-480f-9c80-6716065b07c11-17580567943020-000b4f79dd05b08303810",
+            "expires": "2026-03-15T22:06:34.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "ab.storage.deviceId.716d3f2d-2039-4ea6-bd67-0782ecd0770b",
+            "value": "g%3Ae9edd2b1-5d22-11b7-cd28-f0f3a8521a70%7Ce%3Aundefined%7Cc%3A1758056794923%7Cl%3A1758056794923",
+            "expires": "2026-10-21T21:06:34.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.690Z",
+            "lastAccessed": "2025-09-16T21:06:41.690Z"
+          },
+          {
+            "key": "_hjSessionUser_266550",
+            "value": "eyJpZCI6Ijg2NDk5MTc5LWZhNGQtNTFhYS05OGMzLTRmZjU2MWQxZjI4NyIsImNyZWF0ZWQiOjE3NTgwNTY3OTYyMzYsImV4aXN0aW5nIjpmYWxzZX0=",
+            "expires": "2026-09-16T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "_hjSession_266550",
+            "value": "eyJpZCI6IjRjYzBkNWRlLWUxMzgtNDc1MS04NTFmLTE3OTAxZWJjNzhiZiIsImMiOjE3NTgwNTY3OTYyMzgsInMiOjAsInIiOjAsInNiIjowLCJzciI6MCwic2UiOjAsImZzIjoxLCJzcCI6MH0=",
+            "expires": "2025-09-16T21:36:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "_gcl_au",
+            "value": "1.1.1423538116.1758056796",
+            "expires": "2025-12-15T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "_ga_GQ385NHRG1",
+            "value": "GS2.1.s1758056796$o1$g0$t1758056796$j60$l0$h0",
+            "expires": "2026-10-21T21:06:36.438Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "_ga",
+            "value": "GA1.1.1253080379.1758056796",
+            "expires": "2026-10-21T21:06:36.439Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "__gads",
+            "value": "ID=2e3e28afd997427d:T=1758056796:RT=1758056796:S=ALNI_MY4CcL0kjGa4snWfBU_vvwEHD1ViQ",
+            "expires": "2026-10-11T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "__gpi",
+            "value": "UID=0000128d2517b8c5:T=1758056796:RT=1758056796:S=ALNI_Mag36TpXBpFPnc2QJ2xNRnWyhEKjQ",
+            "expires": "2026-10-11T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "__eoi",
+            "value": "ID=053fd3e09b06d758:T=1758056796:RT=1758056796:S=AA-Afja78u_8iig-sSgr55Mn7R-L",
+            "expires": "2026-03-15T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "ab.storage.sessionId.716d3f2d-2039-4ea6-bd67-0782ecd0770b",
+            "value": "g%3A7ec33a85-915d-6028-de08-fc636f059840%7Ce%3A1758058596905%7Cc%3A1758056794911%7Cl%3A1758056796905",
+            "expires": "2026-10-21T21:06:36.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.691Z",
+            "lastAccessed": "2025-09-16T21:06:41.691Z"
+          },
+          {
+            "key": "__rtbh.uid",
+            "value": "%7B%22eventType%22%3A%22uid%22%2C%22id%22%3A%22GA1.1.1253080379.1758056796%22%2C%22expiryDate%22%3A%222026-09-16T21%3A06%3A37.749Z%22%7D",
+            "expires": "2026-09-16T21:06:37.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.692Z",
+            "lastAccessed": "2025-09-16T21:06:41.692Z"
+          },
+          {
+            "key": "__rtbh.lid",
+            "value": "%7B%22eventType%22%3A%22lid%22%2C%22id%22%3A%22c1mmhEYmFL8MxIOcfUZy%22%2C%22expiryDate%22%3A%222026-09-16T21%3A06%3A37.750Z%22%7D",
+            "expires": "2026-09-16T21:06:37.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "secure": true,
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.692Z",
+            "lastAccessed": "2025-09-16T21:06:41.692Z"
+          },
+          {
+            "key": "_fbp",
+            "value": "fb.2.1758056798946.992958521442985409",
+            "expires": "2025-12-15T21:06:38.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          },
+          {
+            "key": "dicbo_id",
+            "value": "%7B%22dicbo_fetch%22%3A1758056799207%7D",
+            "expires": "2025-09-16T21:11:39.000Z",
+            "domain": "www.yad2.co.il",
+            "path": "/",
+            "hostOnly": true,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          },
+          {
+            "key": "_tt_enable_cookie",
+            "value": "1",
+            "expires": "2026-10-11T21:06:39.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          },
+          {
+            "key": "_ttp",
+            "value": "01K5A5KQ2CDNWQ6V5S1TY1KSJC_.tt.2",
+            "expires": "2026-10-11T21:06:39.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          },
+          {
+            "key": "ttcsid",
+            "value": "1758056799337::XMI4mI_LJS95Df46YvKY.1.1758056799337.0",
+            "expires": "2026-10-11T21:06:39.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          },
+          {
+            "key": "ttcsid_D2IU053C77UFE4JPK0VG",
+            "value": "1758056799335::n8V3XLlyD1bgY7HMF_MU.1.1758056800032.0",
+            "expires": "2026-10-11T21:06:40.000Z",
+            "domain": "yad2.co.il",
+            "path": "/",
+            "hostOnly": false,
+            "creation": "2025-09-16T21:06:41.693Z",
+            "lastAccessed": "2025-09-16T21:06:41.693Z"
+          }
+        ]
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2025-09-16T21:56:30.946Z",
+      "createdAt": "2025-09-16T21:06:30.946Z",
+      "usageCount": 1,
+      "maxUsageCount": 50,
+      "errorScore": 0
+    }
+  ]
+}

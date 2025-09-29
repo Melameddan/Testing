@@ -4,6 +4,7 @@
   "description": "",
   "main": "hello.js",
   "scripts": {
+    "start": "node crowlee.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
@@ -13,9 +14,19 @@
   "dependencies": {
     "cheerio": "^1.1.2",
     "crawlee": "^3.14.1",
+    "express": "^5.1.0",
     "got-scraping": "^4.1.2",
     "json2csv": "^6.0.0-alpha.2",
+    "node-cron": "^4.2.1",
     "open": "^10.2.0",
     "playwright": "^1.55.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melameddan/Testing.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Melameddan/Testing/issues"
+  },
+  "homepage": "https://github.com/Melameddan/Testing#readme"
 }
